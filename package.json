@@ -1,0 +1,19 @@
+{
+  "name": "npm-without-dev-dependencies",
+  "version": "1.0.0",
+  "description": "A test fixture project with only dev dependencies",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/snyk-fixtures/npm-without-dev-dependencies.git"
+  },
+  "author": "Dar Malovani",
+  "license": "ISC",
+  "devDependencies": {
+    "browserify": "^13.1.1",
+    "ms": "^0.7.1"
+  }
+}
