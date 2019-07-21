@@ -13,7 +13,7 @@
   "author": "Dar Malovani",
   "license": "ISC",
   "devDependencies": {
-    "browserify": "^13.1.1",
+    "browserify": "^13.3.0",
     "ms": "^0.7.1"
   }
 }
